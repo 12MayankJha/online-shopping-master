@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import net.kzn.shoppingbackend.dao.ProductDAO;
 import net.kzn.shoppingbackend.dto.Product;
-
+//Entry Controller
 @Controller
 @RequestMapping("/json/data")
 public class JsonDataController {
